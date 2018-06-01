@@ -1,4 +1,4 @@
-/
+/*
  * This class checks to see if a word is misspelled or not. If it is, suggestions are provided
  * based on adding a character, removing a character, and exchanging adjacent characters
  * Note: Some print statements have been commented out  
